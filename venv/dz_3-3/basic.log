@@ -1,0 +1,179 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:00:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:00:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:00:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Поиск: поп
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:01:13] "GET /search?s=поп HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:01:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:08:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:08:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:08:03] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:08:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:08:19] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:08:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:08:19] "[33mGET /uploads/Juniper_2021_1080p_BluRay_Remux_AVC_DTS-HD HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:08:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:08:29] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:08:35] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:08:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:09:08] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Не загружено изображение!
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:10:30] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:10:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:10:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:10:37] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:10:37] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Не загружено изображение!
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:10:47] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:21:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:21:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: 
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:21:47] "GET /search?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:21:47] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:21:47] "[33mGET /uploads/Juniper_2021_1080p_BluRay_Remux_AVC_DTS-HD%20MA%205_1-Seyshel-0-02-08-027.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:21:47] "GET /uploads/images/12345678.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:21:47] "GET /uploads/images/photo-1525351326368-efbb5cb6814d.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:21:47] "GET /uploads/images/IMG_20221016_155051.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:21:47] "GET /uploads/images/Безымянный.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:24:04] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:24:04] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Не загружено изображение!
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:24:51] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:24:54] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:25:34] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:25:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:25:34] "[33mGET /uploads/IMG_20221016_155152.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:25:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:25:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:26:09] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:26:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:26:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: 
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:26:13] "GET /search?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:26:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:26:13] "[36mGET /uploads/images/12345678.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:26:13] "[33mGET /uploads/IMG_20221016_155152.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:26:13] "[36mGET /uploads/images/photo-1525351326368-efbb5cb6814d.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:26:13] "[36mGET /uploads/images/Безымянный.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:26:13] "[36mGET /uploads/images/IMG_20221016_155051.jpg HTTP/1.1[0m" 304 -
+INFO:root:Поиск: 
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:26:31] "GET /search?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:26:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:26:31] "[36mGET /uploads/images/12345678.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:26:31] "[36mGET /uploads/images/photo-1525351326368-efbb5cb6814d.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:26:31] "[36mGET /uploads/images/IMG_20221016_155051.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:26:31] "[36mGET /uploads/images/Безымянный.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:26:31] "[33mGET /uploads/IMG_20221016_155152.jpg HTTP/1.1[0m" 404 -
+INFO:root:Поиск: 
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:28:56] "GET /search?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:28:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:28:56] "[36mGET /uploads/images/12345678.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:28:56] "[36mGET /uploads/images/photo-1525351326368-efbb5cb6814d.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:28:56] "[36mGET /uploads/images/IMG_20221016_155051.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:28:56] "[36mGET /uploads/images/Безымянный.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:28:56] "GET /uploads/images/IMG_20221016_155152.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:29:19] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:29:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:29:19] "[33mGET /uploads/IMG_20221016_155206.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:29:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:29:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:30:13] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:30:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:30:13] "[33mGET /uploads/IMG_20221016_155206.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:30:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:30:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:30:25] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:30:25] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:30:48] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:30:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:30:48] "[33mGET /uploads/IMG_20221016_155518.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:33:22] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:33:22] "GET /uploads/images/IMG_20221016_155518.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:33:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:33:51] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:33:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:33:51] "GET /uploads/images/IMG_20221016_155518.jpg HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:34:55] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:34:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:34:55] "GET /uploads/images/IMG_20221016_155518.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:35:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:35:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: 
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:35:04] "GET /search?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:35:04] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:35:04] "[33mGET /uploads/IMG_20221016_155206.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:35:04] "[36mGET /uploads/images/12345678.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:35:04] "[36mGET /uploads/images/photo-1525351326368-efbb5cb6814d.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:35:04] "[36mGET /uploads/images/Безымянный.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:35:04] "[36mGET /uploads/images/IMG_20221016_155051.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:35:04] "[36mGET /uploads/images/IMG_20221016_155152.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:35:04] "[33mGET /uploads/IMG_20221016_155518.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:35:04] "[36mGET /uploads/images/IMG_20221016_155518.jpg HTTP/1.1[0m" 304 -
+INFO:root:Поиск: 
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:35:20] "GET /search?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:35:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:35:20] "[36mGET /uploads/images/12345678.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:35:20] "[36mGET /uploads/images/photo-1525351326368-efbb5cb6814d.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:35:20] "[36mGET /uploads/images/IMG_20221016_155051.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:35:20] "[36mGET /uploads/images/Безымянный.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:35:20] "[33mGET /uploads/IMG_20221016_155206.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:35:20] "[36mGET /uploads/images/IMG_20221016_155152.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:35:20] "[33mGET /uploads/IMG_20221016_155518.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:35:20] "[36mGET /uploads/images/IMG_20221016_155518.jpg HTTP/1.1[0m" 304 -
+INFO:root:Поиск: 
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:39:00] "GET /search?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:39:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:39:00] "[36mGET /uploads/images/12345678.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:39:00] "[36mGET /uploads/images/photo-1525351326368-efbb5cb6814d.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:39:00] "[36mGET /uploads/images/IMG_20221016_155051.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:39:00] "[36mGET /uploads/images/Безымянный.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:39:00] "GET /uploads/images/IMG_20221016_155206.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:39:00] "[36mGET /uploads/images/IMG_20221016_155152.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:39:00] "[36mGET /uploads/images/IMG_20221016_155518.jpg HTTP/1.1[0m" 304 -
+INFO:root:Поиск: конь
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:39:15] "GET /search?s=конь HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:39:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:39:15] "[36mGET /uploads/images/IMG_20221016_155051.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:39:15] "[36mGET /uploads/images/IMG_20221016_155152.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 15:39:15] "[36mGET /uploads/images/IMG_20221016_155206.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 16:34:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 16:34:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: 
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 16:34:18] "GET /search?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 16:34:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 16:34:18] "[36mGET /uploads/images/12345678.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 16:34:18] "[36mGET /uploads/images/photo-1525351326368-efbb5cb6814d.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 16:34:18] "[36mGET /uploads/images/IMG_20221016_155206.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 16:34:18] "[36mGET /uploads/images/IMG_20221016_155051.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 16:34:18] "[36mGET /uploads/images/IMG_20221016_155152.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 16:34:18] "[36mGET /uploads/images/Безымянный.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 16:34:18] "[33mGET /uploads/images/IMG_20221016_1555.jpg HTTP/1.1[0m" 404 -
+INFO:root:Поиск: 
+INFO:root:Ошибка: Expecting property name enclosed in double quotes: line 7 column 3 (char 5158)
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2023 16:34:49] "GET /search?s= HTTP/1.1" 200 -
